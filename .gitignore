@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+
+.env
+
+pyvenv.cfg
+
+etc
+
+Lib
+
+Scripts
+
+share
+
+.streamlit
